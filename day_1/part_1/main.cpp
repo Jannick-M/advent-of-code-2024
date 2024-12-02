@@ -32,7 +32,7 @@ int main() {
     std::sort(location_ids_r.begin(), location_ids_r.end());
 
     int total_diff = 0;
-    for (unsigned long i = 0; i < location_ids_l.size(); i++) {
+    for (int i = 0; i < location_ids_l.size(); i++) {
         unsigned long diff = std::llabs(location_ids_l[i] - location_ids_r[i]);
         total_diff += diff;
     }
