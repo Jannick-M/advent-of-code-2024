@@ -54,5 +54,6 @@ int main() {
 }
 
 
-//https://www.geeksforgeeks.org/how-to-read-file-into-string-in-cpp/
-//https://stackoverflow.com/questions/17724925/parse-string-containing-numbers-into-integer-array
+// https://www.geeksforgeeks.org/how-to-read-file-into-string-in-cpp/
+// https://stackoverflow.com/questions/17724925/parse-string-containing-numbers-into-integer-array
+// https://stackoverflow.com/questions/4745617/how-to-make-negative-numbers-into-positive
