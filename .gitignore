@@ -1,0 +1,6 @@
+# dingen die door compileren worden gemaakt
+*.exe
+*.ilk
+*.pdb
+*.pdb
+*.obj
